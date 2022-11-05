@@ -1,0 +1,14 @@
+TimeRetriever	KEYWORD1
+begin	KEYWORD2
+getSeconds	KEYWORD2
+getMinutes	KEYWORD2
+getHours	KEYWORD2
+getDay	KEYWORD2
+getDate	KEYWORD2
+getMonth	KEYWORD2
+getFullYear	KEYWORD2
+getJulian	KEYWORD2
+
+
+
+
