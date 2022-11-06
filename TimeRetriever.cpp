@@ -1,6 +1,6 @@
 /*
 
-  TimeRetriever.cpp - Library for getting the current date and time components via WiFi for ESP32 & ESP8266.
+  TimeRetriever.cpp - Library for getting the current date and time components via WiFi for ESP32.
 
   Created by Seth A. Hyde, October, 2022.
 
