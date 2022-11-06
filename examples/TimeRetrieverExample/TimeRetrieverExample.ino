@@ -1,6 +1,6 @@
 /*
   TimeRetriever Example 
-  Library for getting current date and time components via WiFi for ESP32 & ESP8266.
+  Library for getting current date and time components via WiFi for ESP32.
 
   Created by Seth Hyde, November, 2022.
 
