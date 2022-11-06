@@ -1,6 +1,6 @@
 /*
 
-  TimeRetriever.h - Library for getting current date and time components via WiFi for ESP32 & ESP8266.
+  TimeRetriever.h - Library for getting current date and time components via WiFi for ESP32.
 
   Created by Seth A. Hyde, November, 2022.
 
