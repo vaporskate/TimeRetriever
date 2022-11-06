@@ -1,4 +1,4 @@
-## Time Retriever for ESP32 & ESP8266
+## Time Retriever for ESP32
 
 Simple library to retrieve current real-world time & date components (day of week, minutes, hours, month etc.) for user-defined timezone.
 
