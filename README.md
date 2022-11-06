@@ -4,7 +4,7 @@ Simple library to retrieve current real-world time & date components (day of wee
 
 __Note:__
 * __WiFi connection is required to gathered time components__
-* __Maximum resolution is the unit of *Seconds* (cannot retrieve milliseconds or smaller)__
+* __Maximum resolution: *Seconds* (cannot retrieve milliseconds or smaller)__
 
 ### Step 1:
 Download and extract the Zip, then plop the extracted TimeRetriever folder into your ```Arduino/libraries``` directory.
@@ -19,7 +19,7 @@ Include the TimeRetriever library in your project
 
 Instantiate a TimeRetriever object
 ```C++
-TimeRetriever tr;         //Instanitate TimeRetriever object 
+TimeRetriever tr;        
 ```
 
 ### Step 4:
